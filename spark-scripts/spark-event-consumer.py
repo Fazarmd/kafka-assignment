@@ -1,5 +1,5 @@
 # 
-# ASSIGNMENT streaming job
+# ASSIGNMENT streaming data pipeline
 # 
 
 import pyspark
